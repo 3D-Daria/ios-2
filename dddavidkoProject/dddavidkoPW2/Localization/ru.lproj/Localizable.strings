@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  dddavidkoProject
+
+  Created by Daria D on 16.12.2022.
+  
+*/
+"TITLE" = "Моя аптечка";
+"BUTTON_ADD" = "Добавить";
+"NEW_MED_ALERT_TITLE" = "Новое лекарство";
+"EDIT_MED_ALERT_TITLE" = "Изменить";
+"ALERT_MESSAGE" = "Введите название и дату окончания срока годности лекарства";
+"ALERT_NAME_FIELD_PH" = "Название";
+"ALERT_EXPIRY_FIELD_PH" = "Годен до";
+"CANCEL_BUTTON" = "Отмена";

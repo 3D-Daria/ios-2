@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  dddavidkoProject
+
+  Created by Daria D on 16.12.2022.
+  
+*/
+"TITLE" = "My meds kit";
+"BUTTON_ADD" = "Add";
+"NEW_MED_ALERT_TITLE" = "New medicine";
+"EDIT_MED_ALERT_TITLE" = "Edit";
+"ALERT_MESSAGE" = "Enter the name and expiry date of the medicine";
+"ALERT_NAME_FIELD_PH" = "Name";
+"ALERT_EXPIRY_FIELD_PH" = "Expiry date";
+"CANCEL_BUTTON" = "Cancel";
